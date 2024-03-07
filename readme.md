@@ -7,6 +7,12 @@ Finished 429/670 teams
 
  Despite initial enthusiasm for feature engineering, I discovered that many features were unrelated to the target variable. Created subsets of features, utilized various models, and averaged predictions for robustness.
 
+** Data Insights**
+<ol>
+This competition was different in the sense that the class ratios of positive to negative class were towards the positive side.
+ICD-9 and ICD-10 in Breast Cancer Diagnosis code was the trickiest to identify how to use.
+</ol>
+
 
 Collaborated as a team on [WiDS-Datathon](https://github.com/orgs/WiDS-Datathon/repositories)
 
