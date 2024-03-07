@@ -6,3 +6,7 @@ Finished 429/670 teams
 **PUBLIC LEADER BOARD SCORE** : **0.79**
 
  Despite initial enthusiasm for feature engineering, I discovered that many features were unrelated to the target variable. Created subsets of features, utilized various models, and averaged predictions for robustness.
+
+
+Collaborated as a team on [Repository Name](https://github.com/orgs/WiDS-Datathon/repositories)
+
